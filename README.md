@@ -14,7 +14,7 @@
 
 ### Модуль 02 / Module 02
 4. **Статистический анализ данных / Statistical analysis of data** - [Project_04](#project_04)  
-5. **Введение в машинное обучение / Introduction to machine learning** - [Project_05](#project_05)  
+5. **Линейные модели в машинном обучении / Linear Models in Machine Learning** - [Project_05](#project_05)  
 6. **Обучение с учителем / Supervised learning** - [Project_06](#project_06)  
 7. **Машинное обучение в бизнесе / Machine learning in business** - [Project_07](#project_07)  
 8. **Сборный проект / Common project** - [Project_08](#project_08)  
@@ -73,12 +73,12 @@ The project focuses on analyzing user behavior and financial metrics of the GoFa
 
 ---
 
-### <a name="project_05"></a>Project_05: Введение в машинное обучение / Introduction to machine learning  
+### <a name="project_05"></a>Project_05: Линейные модели в машинном обучении / Linear Models in Machine Learning
 **Задача:**  
-Построить систему анализа поведения клиентов "Мегалайн" для предложения нового тарифа ("Смарт" или "Ультра").  
+Разработать модель машинного обучения для помощи фермеру в выборе коров, соответствующих стандартам надоев и качества молока.
 
 **Task:**  
-Build a system to analyze Megaline customer behavior and recommend new tariffs.
+Develop a machine learning model to help farmers select cows that meet milk yield and quality standards.
 
 ---
 
