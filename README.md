@@ -11,7 +11,7 @@
 1. **Предобработка данных / Data Processing** - [Project_01](#project_01)  
 2. **Исследовательский анализ данных / Exploratory data analysis** - [Project_02](#project_02)  
 3. **Статистический анализ данных / Statistical analysis of data** - [Project_03](#project_03)  
-4. **Сборный проект / Common project** - [Project_04](#project_04)  
+4. **Сборный проект / Common project** - [Project_03](#project_03)  
 
 ### Модуль 02 / Module 02
 5. **Введение в машинное обучение / Introduction to machine learning** - [Project_05](#project_05)  
@@ -55,16 +55,7 @@ Data from Yandex.Realty — archive of apartment sale listings in Saint-Petersbu
 
 ---
 
-### <a name="project_03"></a>Project_03: Статистический анализ данных / Statistical analysis of data  
-**Задача:**  
-Анализ тарифов "Смарт" и "Ультра" оператора "Мегалайн" для определения более прибыльного тарифа и корректировки рекламного бюджета.  
-
-**Task:**  
-Analyze "Smart" and "Ultra" tariffs for Megaline to determine which generates more revenue and adjust advertising budget.
-
----
-
-### <a name="project_04"></a>Project_03: Сборный проект / Common project  
+### <a name="project_03"></a>Project_03: Сборный проект / Common project  
 **Задача:**  
 Проект выполнен по заказу Министерства культуры РФ. Цель — исследовать рынок российского кинопроката, выявить текущие тренды и оценить популярность фильмов, получивших господдержку.
 
