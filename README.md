@@ -106,10 +106,10 @@ Task 2: Build a model to predict the likelihood of an employee leaving the compa
 
 ### <a name="project_08"></a>Project_08: Машинное обучение в бизнесе / Machine learning in business  
 **Задача:**  
-Определить наиболее прибыльный регион для бурения новой скважины ("ГлавРосГосНефть") на основе данных о 100 000 месторождений.  
+Определить наиболее прибыльный регион для бурения новой скважины ("ГлавРосГосНефть") на основе данных о 10 000 месторождений.  
 
 **Task:**  
-Identify the most profitable oil drilling region using data from 100,000 fields.
+Identify the most profitable oil drilling region using data from 10,000 fields.
 
 ---
 
