@@ -16,10 +16,10 @@
 4. **Статистический анализ данных / Statistical analysis of data** - [Project_04](#project_04)  
 5. **Линейные модели в машинном обучении / Linear Models in Machine Learning** - [Project_05](#project_05)  
 6. **Обучение с учителем / Supervised learning** - [Project_06](#project_06)  
-7. **Машинное обучение в бизнесе / Machine learning in business** - [Project_07](#project_07)  
-8. **Сборный проект / Common project** - [Project_08](#project_08)  
+7. **Сборный проект / Common project** - [Project_07](#project_07)  
 
 ### Модуль 03 / Module 03
+8. **Машинное обучение в бизнесе / Machine learning in business** - [Project_08](#project_08)  
 9. **Линейная алгебра / Linear algebra** - [Project_09](#project_09)  
 10. **Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)** - [Project_10](#project_10)  
 11. **Временные ряды / Time series** - [Project_11](#project_11)  
@@ -91,21 +91,25 @@ Develop a solution for personalizing offers to regular customers of the "One Cli
 
 ---
 
-### <a name="project_07"></a>Project_07: Машинное обучение в бизнесе / Machine learning in business  
+### <a name="project_07"></a>Project_07: Сборный проект / Common project  
+**Задача:**  
+HR-аналитики компании «Работа с заботой» помогают бизнесу оптимизировать управление персоналом.
+Задача 1: Построить модель для предсказания уровня удовлетворённости сотрудника на основе данных заказчика.
+Задача 2: Построить модель для предсказания вероятности увольнения сотрудника.
+
+**Task:**  
+HR analysts at "Rabota s Zabotoi" help businesses optimize personnel management.
+Task 1: Build a model to predict an employee's satisfaction level based on client data.
+Task 2: Build a model to predict the likelihood of an employee leaving the company.
+
+---
+
+### <a name="project_08"></a>Project_08: Машинное обучение в бизнесе / Machine learning in business  
 **Задача:**  
 Определить наиболее прибыльный регион для бурения новой скважины ("ГлавРосГосНефть") на основе данных о 100 000 месторождений.  
 
 **Task:**  
 Identify the most profitable oil drilling region using data from 100,000 fields.
-
----
-
-### <a name="project_08"></a>Project_08: Сборный проект / Common project  
-**Задача:**  
-Построить модель предсказания коэффициента восстановления золота для компании "Цифра".  
-
-**Task:**  
-Build a gold recovery rate prediction model for "Numbers" company.
 
 ---
 
