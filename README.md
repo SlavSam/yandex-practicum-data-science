@@ -84,10 +84,10 @@ Develop a machine learning model to help farmers select cows that meet milk yiel
 
 ### <a name="project_06"></a>Project_06: Обучение с учителем / Supervised learning  
 **Задача:**  
-Прогнозирование оттока клиентов "Бета-Банка" на основе исторических данных о поведении.  
+Разработать решение для персонализации предложений постоянным клиентам интернет-магазина "В один клик" с целью повышения их покупательской активности
 
 **Task:**  
-Predict customer churn for "Beta-Bank" using historical behavior data.
+Develop a solution for personalizing offers to regular customers of the "One Click" online store to increase their purchasing activity
 
 ---
 
