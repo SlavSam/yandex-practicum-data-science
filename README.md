@@ -9,11 +9,11 @@
 
 ### Модуль 01 / Module 01
 1. **Предобработка данных / Data Processing** - [Project_01](#project_01)  
-2. **Исследовательский анализ данных / Exploratory data analysis** - [Project_02](#project_02)  
-3. **Статистический анализ данных / Statistical analysis of data** - [Project_03](#project_03)  
-4. **Сборный проект / Common project** - [Project_03](#project_03)  
+2. **Исследовательский анализ данных / Exploratory data analysis** - [Project_02](#project_02) 
+3. **Сборный проект / Common project** - [Project_03](#project_03)  
 
 ### Модуль 02 / Module 02
+4. **Статистический анализ данных / Statistical analysis of data** - [Project_04](#project_04)  
 5. **Введение в машинное обучение / Introduction to machine learning** - [Project_05](#project_05)  
 6. **Обучение с учителем / Supervised learning** - [Project_06](#project_06)  
 7. **Машинное обучение в бизнесе / Machine learning in business** - [Project_07](#project_07)  
@@ -61,6 +61,15 @@ Data from Yandex.Realty — archive of apartment sale listings in Saint-Petersbu
 
 **Task:**  
 The project was commissioned by the Ministry of Culture of the Russian Federation. The goal is to analyze the Russian film distribution market, identify current trends, and assess the popularity of state-supported films.
+
+---
+
+### <a name="project_04"></a>Project_04: Статистический анализ данных / Statistical analysis of data  
+**Задача:**  
+Проект посвящен анализу поведения пользователей и финансовых показателей сервиса аренды самокатов GoFast. Основная цель — проверка гипотез для оптимизации подписочной модели и повышения прибыльности бизнеса.
+
+**Task:**  
+The project focuses on analyzing user behavior and financial metrics of the GoFast scooter rental service. The main goal is to test hypotheses for optimizing the subscription model and increasing business profitability.
 
 ---
 
