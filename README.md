@@ -64,12 +64,12 @@ Analyze "Smart" and "Ultra" tariffs for Megaline to determine which generates mo
 
 ---
 
-### <a name="project_04"></a>Project_04: Сборный проект / Common project  
+### <a name="project_04"></a>Project_03: Сборный проект / Common project  
 **Задача:**  
-Для интернет-магазина "Стримчик" (продажа игр) выявить закономерности успешности игр на основе исторических данных о продажах, оценках и платформах.  
+Проект выполнен по заказу Министерства культуры РФ. Цель — исследовать рынок российского кинопроката, выявить текущие тренды и оценить популярность фильмов, получивших господдержку.
 
 **Task:**  
-For "Streamchik" game store, identify success patterns using historical sales, reviews, and platform data.
+The project was commissioned by the Ministry of Culture of the Russian Federation. The goal is to analyze the Russian film distribution market, identify current trends, and assess the popularity of state-supported films.
 
 ---
 
