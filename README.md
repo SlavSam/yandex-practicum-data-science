@@ -19,11 +19,12 @@
 7. **Сборный проект / Common project** - [Project_07](#project_07)  
 
 ### Модуль 03 / Module 03
-8. **Машинное обучение в бизнесе / Machine learning in business** - [Project_08](#project_08)  
-9. **Линейная алгебра / Linear algebra** - [Project_09](#project_09)  
-10. **Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)** - [Project_10](#project_10)  
-11. **Временные ряды / Time series** - [Project_11](#project_11)  
-12. **Машинное обучение для текстов / Machine learning for texts** - [Project_12](#project_12)  
+8. **Машинное обучение в бизнесе / Machine learning in business** - [Project_08](#project_08)
+9. **Системы обработки больших данных / Big data processing systems** - [Project_09](#project_09)    
+10. **Линейная алгебра / Linear algebra** - [Project_09](#project_09)  
+11. **Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)** - [Project_10](#project_10)  
+12. **Временные ряды / Time series** - [Project_11](#project_11)  
+13. **Машинное обучение для текстов / Machine learning for texts** - [Project_12](#project_12)  
 
 ### Модуль 04 / Module 04
 13. **Извлечение данных / Data retrieval** - [Project_13](#project_13)  
@@ -110,6 +111,15 @@ Task 2: Build a model to predict the likelihood of an employee leaving the compa
 
 **Task:**  
 Identify the most profitable oil drilling region using data from 10,000 fields.
+
+---
+
+### <a name="project_09"></a>Project_09: Системы обработки больших данных / Big data processing systems  
+**Задача:**  
+Разработать метод преобразования данных клиентов страховой компании "Хоть потоп" для защиты персональной информации.  
+
+**Task:**  
+Develop a data transformation method to protect client information for "Hot Potop" insurance.
 
 ---
 
