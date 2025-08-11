@@ -116,10 +116,10 @@ Identify the most profitable oil drilling region using data from 10,000 fields.
 
 ### <a name="project_09"></a>Project_09: Системы обработки больших данных / Big data processing systems  
 **Задача:**  
-Разработать метод преобразования данных клиентов страховой компании "Хоть потоп" для защиты персональной информации.  
+Проект по предсказанию стоимости жилья в Калифорнии с использованием PySpark.
 
 **Task:**  
-Develop a data transformation method to protect client information for "Hot Potop" insurance.
+A project for predicting housing prices in California using PySpark.
 
 ---
 
