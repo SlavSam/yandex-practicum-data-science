@@ -20,11 +20,11 @@
 
 ### Модуль 03 / Module 03
 8. **Машинное обучение в бизнесе / Machine learning in business** - [Project_08](#project_08)
-9. **Системы обработки больших данных / Big data processing systems** - [Project_09](#project_09)    
-10. **Линейная алгебра / Linear algebra** - [Project_09](#project_09)  
-11. **Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)** - [Project_10](#project_10)  
-12. **Временные ряды / Time series** - [Project_11](#project_11)  
-13. **Машинное обучение для текстов / Machine learning for texts** - [Project_12](#project_12)  
+9. **Системы обработки больших данных / Big data processing systems** - [Project_09](#project_09)
+10. **Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)** - [Project_10](#project_10)
+11. **Модели и алгоритмы в машинном обучении / Models and Algorithms in Machine Learning** - [Project_11](#project_11)
+13. **Временные ряды / Time series** - [Project_11](#project_11)  
+14. **Машинное обучение для текстов / Machine learning for texts** - [Project_12](#project_12)  
 
 ### Модуль 04 / Module 04
 13. **Извлечение данных / Data retrieval** - [Project_13](#project_13)  
@@ -123,21 +123,21 @@ A project for predicting housing prices in California using PySpark.
 
 ---
 
-### <a name="project_09"></a>Project_09: Линейная алгебра / Linear algebra  
-**Задача:**  
-Разработать метод преобразования данных клиентов страховой компании "Хоть потоп" для защиты персональной информации.  
-
-**Task:**  
-Develop a data transformation method to protect client information for "Hot Potop" insurance.
-
----
-
-### <a name="project_10"></a>Project_10: Численные методы / Numerical analysis  
+### <a name="project_10"></a>Project_10: Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting) 
 **Задача:**  
 Построить модель определения стоимости автомобилей для сервиса "Не бит, не крашен".  
 
 **Task:**  
 Build a used car price prediction model for "Not Broken, Not Painted" service.
+
+---
+
+### <a name="project_11"></a>Project_11: Модели и алгоритмы в машинном обучении / Models and Algorithms in Machine Learning
+**Задача:**  
+Разработать модель нейросети для определения температуры поверхности звёзд по их характеристикам. 
+
+**Task:**  
+Develop a neural network model to determine the surface temperature of stars based on their characteristics.
 
 ---
 
