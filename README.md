@@ -23,10 +23,12 @@
 9. **Системы обработки больших данных / Big data processing systems** - [Project_09](#project_09)
 10. **Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)** - [Project_10](#project_10)
 11. **Модели и алгоритмы в машинном обучении / Models and Algorithms in Machine Learning** - [Project_11](#project_11)
-13. **Временные ряды / Time series** - [Project_11](#project_11)  
-14. **Машинное обучение для текстов / Machine learning for texts** - [Project_12](#project_12)  
+12. **Сборный проект / Common project** - [Project_12](#project_12)
+
 
 ### Модуль 04 / Module 04
+13. **Временные ряды / Time series** - [Project_11](#project_11)  
+14. **Машинное обучение для текстов / Machine learning for texts** - [Project_12](#project_12)  
 13. **Извлечение данных / Data retrieval** - [Project_13](#project_13)  
 14. **Компьютерное зрение / Computer vision** - [Project_14](#project_14)  
 15. **Рекомендации и обучение без учителя / Unsupervised learning** - [Project_15](#project_15)  
@@ -138,6 +140,15 @@ Build a used car price prediction model for "Not Broken, Not Painted" service.
 
 **Task:**  
 Develop a neural network model to determine the surface temperature of stars based on their characteristics.
+
+---
+
+### <a name="project_12"></a>Project_12: Сборный проект / Common project
+**Задача:**  
+Разработать систему оценки вероятности ДТП с любым повреждением транспортного средства на основе исторических данных региона.
+
+**Task:**  
+Develop a system for assessing the probability of an accident with any damage to a vehicle based on historical data in the region.
 
 ---
 
