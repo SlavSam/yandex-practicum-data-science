@@ -189,7 +189,7 @@ Develop a demonstration system that returns relevant photographs based on a text
 
 ### <a name="project_final"></a>Project_final: Выпускной проект / Final project  
 **Задача:**  
-Прогнозирование температуры стали для оптимизации энергозатрат ("Так закаляем сталь").  
+Обучить модель для прогноза оттока клиентов («ТелеДом»). 
 
 **Task:**  
-Steel temperature prediction to optimize energy consumption ("That’s How We Temper Steel").
+Train a model to predict customer churn (TeleDom).
