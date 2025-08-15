@@ -28,7 +28,7 @@
 
 ### Модуль 04 / Module 04
 13. **Временные ряды / Time series** - [Project_13](#project_13)  
-14. **Машинное обучение для текстов / Machine learning for texts** - [Project_12](#project_12)  
+14. **Машинное обучение для текстов / Machine learning for texts** - [Project_14](#project_14)  
 13. **Извлечение данных / Data retrieval** - [Project_13](#project_13)  
 14. **Компьютерное зрение / Computer vision** - [Project_14](#project_14)  
 15. **Рекомендации и обучение без учителя / Unsupervised learning** - [Project_15](#project_15)  
@@ -161,7 +161,7 @@ Predict hourly taxi orders for "Cool Taxi" company.
 
 ---
 
-### <a name="project_12"></a>Project_12: Машинное обучение для текстов / Machine learning for texts  
+### <a name="project_14"></a>Project_14: Машинное обучение для текстов / Machine learning for texts  
 **Задача:**  
 Классификация токсичных комментариев для интернет-магазина "Викишоп".  
 
