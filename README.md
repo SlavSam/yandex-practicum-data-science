@@ -30,7 +30,7 @@
 13. **Временные ряды / Time series** - [Project_13](#project_13)  
 14. **Машинное обучение для текстов / Machine learning for texts** - [Project_14](#project_14)  
 15. **Компьютерное зрение / Computer vision** - [Project_15](#project_15)  
-16. **Рекомендации и обучение без учителя / Unsupervised learning** - [Project_16](#project_16)  
+16. **Сборный проект / Common project** - [Project_16](#project_16)  
 
 ### Выпускной проект / Final project
 17. **Итоговый проект / Final project** - [Project_final](#project_final)  
@@ -175,6 +175,15 @@ Toxic comment classification for "Wikishop" online store.
 
 **Task:**  
 Age detection system for "Bread-Salt" supermarket.
+
+---
+
+### <a name="project_16"></a>Project_16: Сборный проект / Common project
+**Задача:**  
+Разработать демонстрационную систему, которая по текстовому запросу возвращает релевантные фотографии, оценивая их схожесть.
+
+**Task:**  
+Develop a demonstration system that returns relevant photographs based on a text query, assessing their similarity.
 
 ---
 
