@@ -27,7 +27,7 @@
 
 
 ### Модуль 04 / Module 04
-13. **Временные ряды / Time series** - [Project_11](#project_11)  
+13. **Временные ряды / Time series** - [Project_13](#project_13)  
 14. **Машинное обучение для текстов / Machine learning for texts** - [Project_12](#project_12)  
 13. **Извлечение данных / Data retrieval** - [Project_13](#project_13)  
 14. **Компьютерное зрение / Computer vision** - [Project_14](#project_14)  
@@ -152,7 +152,7 @@ Develop a system for assessing the probability of an accident with any damage to
 
 ---
 
-### <a name="project_11"></a>Project_11: Временные ряды / Time series  
+### <a name="project_13"></a>Project_13: Временные ряды / Time series  
 **Задача:**  
 Прогнозирование количества заказов такси на следующий час для компании "Чётенькое такси".  
 
