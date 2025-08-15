@@ -29,12 +29,11 @@
 ### Модуль 04 / Module 04
 13. **Временные ряды / Time series** - [Project_13](#project_13)  
 14. **Машинное обучение для текстов / Machine learning for texts** - [Project_14](#project_14)  
-13. **Извлечение данных / Data retrieval** - [Project_13](#project_13)  
-14. **Компьютерное зрение / Computer vision** - [Project_14](#project_14)  
-15. **Рекомендации и обучение без учителя / Unsupervised learning** - [Project_15](#project_15)  
+15. **Компьютерное зрение / Computer vision** - [Project_15](#project_15)  
+16. **Рекомендации и обучение без учителя / Unsupervised learning** - [Project_16](#project_16)  
 
 ### Выпускной проект / Final project
-16. **Итоговый проект / Final project** - [Project_final](#project_final)  
+17. **Итоговый проект / Final project** - [Project_final](#project_final)  
 
 ---
 
@@ -170,16 +169,7 @@ Toxic comment classification for "Wikishop" online store.
 
 ---
 
-### <a name="project_13"></a>Project_13: Извлечение данных / Data retrieval  
-**Задача:**  
-Анализ спроса на рейсы авиакомпании F9 в города проведения фестивалей.  
-
-**Task:**  
-Analyze flight demand for airline F9 to festival cities.
-
----
-
-### <a name="project_14"></a>Project_14: Компьютерное зрение / Computer vision  
+### <a name="project_15"></a>Project_15: Компьютерное зрение / Computer vision  
 **Задача:**  
 Система определения возраста покупателей для сети "Хлеб-Соль".  
 
